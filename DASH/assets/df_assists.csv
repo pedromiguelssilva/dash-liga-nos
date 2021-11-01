@@ -1,0 +1,341 @@
+,Season,Player,Team,J,G,ASS,INF,PINF,SeasonOrder
+0,0405,Jorginho,V. Setúbal,32,9,9,18,39,11.0
+1,0405,Hugo Viana,Sporting CP,32,6,8,14,21,11.0
+2,0405,Simão Sabrosa,SL Benfica,34,15,8,23,45,11.0
+3,0405,Ricardo Nascimento,Rio Ave,19,3,7,10,29,11.0
+4,0405,Juninho Petrolina,Belenenses,24,1,7,8,21,11.0
+5,0405,Wender,SC Braga,33,9,7,16,36,11.0
+6,0405,Fábio Rochemback,Sporting CP,23,1,6,7,11,11.0
+7,0405,Luciano Fonseca,Académica,31,6,6,12,41,11.0
+8,0405,Nandinho,Gil Vicente,30,7,6,13,38,11.0
+9,0405,Clayton,Penafiel,29,5,6,11,28,11.0
+10,0405,Petit,SL Benfica,29,2,6,8,16,11.0
+11,0405,Manuel José,V. Setúbal,31,3,5,8,17,11.0
+12,0405,Alan,Marítimo,30,3,5,8,21,11.0
+13,0405,Liedson,Sporting CP,31,25,5,30,45,11.0
+14,0405,Carlos Martins,Sporting CP,22,5,4,9,14,11.0
+15,0405,Wendel,Nacional,15,4,4,8,17,11.0
+16,0405,Pedro Barbosa,Sporting CP,30,0,4,4,6,11.0
+17,0405,Neca,Belenenses,27,1,4,5,13,11.0
+18,0405,Azar Karadas,SL Benfica,27,4,4,8,16,11.0
+19,0405,Silva,V. Guimarães,23,7,4,11,29,11.0
+20,0506,Fajardo,Naval,32,4,10,14,40,12.0
+21,0506,Ricardo Quaresma,FC Porto,29,5,9,14,26,12.0
+22,0506,José Pedro,Belenenses,25,4,7,11,28,12.0
+23,0506,Filipe Teixeira,Académica,30,3,7,10,27,12.0
+24,0506,Zé Manuel,Boavista,26,3,6,9,24,12.0
+25,0506,Petit,SL Benfica,30,3,6,9,18,12.0
+26,0506,Manuel José,Boavista,33,3,6,9,24,12.0
+27,0506,Miguelito,Nacional,34,1,6,7,18,12.0
+28,0506,Jorginho,FC Porto,28,4,5,9,17,12.0
+29,0506,Ousmane N’Doye,"FC Penafiel, Académica OAF",25,3,5,8,29,12.0
+30,0506,Edson,Paços Ferreira,29,3,5,8,21,12.0
+31,0506,Nélson,SL Benfica,25,0,5,5,10,12.0
+32,0506,Carlitos,Gil Vicente,32,5,5,10,27,12.0
+33,0506,Nandinho,Gil Vicente,31,5,5,10,27,12.0
+34,0506,Pedrinha,Paços Ferreira,32,1,5,6,16,12.0
+35,0506,Patacas,Nacional,31,0,5,5,13,12.0
+36,0506,Mateus,Gil Vicente,4,2,4,6,16,12.0
+37,0506,Hugo Leal,SC Braga,12,0,4,4,11,12.0
+38,0506,Diogo Valente,Boavista,23,2,4,6,16,12.0
+39,0506,Jaime Júnior,"SC Braga, UD Leiria",26,0,4,4,8,12.0
+40,0607,Ricardo Quaresma,FC Porto,26,6,17,23,35,13.0
+41,0607,Leandro Romagnoli,Sporting CP,23,1,6,7,13,13.0
+42,0607,João Vieira Pinto,SC Braga,24,2,6,8,23,13.0
+43,0607,Juliano Spadacio,Nacional,25,3,6,9,22,13.0
+44,0607,Simão Sabrosa,SL Benfica,24,11,6,17,31,13.0
+45,0607,José Pedro,Belenenses,26,8,6,14,39,13.0
+46,0607,Rodrigo Tello,Sporting CP,24,2,5,7,13,13.0
+47,0607,Zé Manuel,Boavista,28,5,5,10,31,13.0
+48,0607,Nani,Sporting CP,29,5,5,10,19,13.0
+49,0607,Tiago Gomes,E. Amadora,28,2,5,7,30,13.0
+50,0607,Nélson,SL Benfica,28,0,5,5,9,13.0
+51,0607,Silvestre Varela,V. Setúbal,30,2,5,7,33,13.0
+52,0607,Anderson,FC Porto,15,2,4,6,9,13.0
+53,0607,Yannick Djaló,Sporting CP,24,5,4,9,17,13.0
+54,0607,Fabrizio Miccoli,SL Benfica,22,10,4,14,25,13.0
+55,0607,Georgios Karagounis,SL Benfica,26,2,4,6,11,13.0
+56,0607,Alonso,Nacional,25,1,4,5,12,13.0
+57,0607,Marcinho,Marítimo,27,4,4,8,27,13.0
+58,0607,Kostas Katsouranis,SL Benfica,29,6,4,10,18,13.0
+59,0607,Lito,Naval,30,5,4,9,32,13.0
+60,0708,Lucho González,FC Porto,28,3,12,15,25,
+61,0708,Ricardo Quaresma,FC Porto,27,8,8,16,27,
+62,0708,Wender,SC Braga,26,2,7,9,28,
+63,0708,Mateus,E. Amadora,29,4,7,11,38,
+64,0708,Ricardo Esteves,Marítimo,25,0,6,6,15,
+65,0708,Yves Desmarets,V. Guimarães,30,4,6,10,29,
+66,0708,Marek Čech,FC Porto,16,0,5,5,8,
+67,0708,Edson,Paços Ferreira,26,5,5,10,32,
+68,0708,Cláudio Pitbull,V. Setúbal,25,7,5,12,32,
+69,0708,Jorge Ribeiro,Boavista,26,8,5,13,41,
+70,0708,Liedson,Sporting CP,26,11,5,16,35,
+71,0708,Alan,V. Guimarães,29,1,5,6,17,
+72,0708,José Pedro,Belenenses,30,8,5,13,35,
+73,0708,Diogo Valente,Leixões,17,1,4,5,19,
+74,0708,Ángel Di María,SL Benfica,26,0,4,4,9,
+75,0708,Evandro Roncatto,Belenenses,28,3,4,7,19,
+76,0708,Davide,Naval,28,0,4,4,17,
+77,0708,Léo,SL Benfica,27,0,4,4,9,
+78,0708,Rui Costa,SL Benfica,29,5,4,9,20,
+79,0708,Silas,Belenenses,29,2,4,6,16,
+80,0809,Alonso,Nacional,29,2,10,12,26,15.0
+81,0809,Ferreira,Paços Ferreira,21,2,8,10,27,15.0
+82,0809,Mariano González,FC Porto,24,4,7,11,18,15.0
+83,0809,José Antonio Reyes,SL Benfica,24,4,6,10,19,15.0
+84,0809,Raul Meireles,FC Porto,28,4,6,10,16,15.0
+85,0809,Lisandro López,FC Porto,28,10,6,16,26,15.0
+86,0809,João Moutinho,Sporting CP,27,3,6,9,20,15.0
+87,0809,Modou Sougou,Académica,23,4,5,9,32,15.0
+88,0809,Hugo Leal,Trofense,21,3,5,8,32,15.0
+89,0809,Hulk,FC Porto,25,8,5,13,21,15.0
+90,0809,Luis Aguiar,SC Braga,28,4,5,9,24,15.0
+91,0809,Rúben Micael,Nacional,26,4,5,9,19,15.0
+92,0809,Mateus,Nacional,28,5,5,10,21,15.0
+93,0809,Liedson,Sporting CP,26,17,5,22,49,15.0
+94,0809,Marcinho,Marítimo,29,6,5,11,31,15.0
+95,0809,Bruno Pereirinha,Sporting CP,25,1,4,5,11,15.0
+96,0809,Miguel Pedro,Académica,25,0,4,4,14,15.0
+97,0809,Djalma Campos,Marítimo,26,6,4,10,29,15.0
+98,0809,Derlei,Sporting CP,23,7,4,11,24,15.0
+99,0809,Pablo Aimar,SL Benfica,22,1,4,5,9,15.0
+100,0910,Ángel Di María,SL Benfica,26,5,11,16,21,16.0
+101,0910,Fernando Belluschi,FC Porto,27,3,10,13,19,16.0
+102,0910,Fábio Coentrão,SL Benfica,26,0,8,8,10,16.0
+103,0910,Hulk,FC Porto,19,5,7,12,17,16.0
+104,0910,Pablo Aimar,SL Benfica,25,4,7,11,14,16.0
+105,0910,Marcinho,Marítimo,13,1,6,7,17,16.0
+106,0910,Djalma Campos,Marítimo,28,6,6,12,29,16.0
+107,0910,Hélder Barbosa,V. Setúbal,26,2,6,8,28,16.0
+108,0910,Radamel Falcao,FC Porto,28,25,6,31,44,16.0
+109,0910,Ukra,Olhanense,28,1,6,7,23,16.0
+110,0910,Liedson,Sporting CP,28,13,6,19,45,16.0
+111,0910,Fredy Guarín,FC Porto,19,4,5,9,13,16.0
+112,0910,Hugo Viana,SC Braga,28,4,5,9,19,16.0
+113,0910,Javier Saviola,SL Benfica,27,11,5,16,21,16.0
+114,0910,Rúben Micael,"Nacional, FC Porto",26,2,5,7,17,16.0
+115,0910,Miguel Veloso,Sporting CP,25,3,5,8,19,16.0
+116,0910,Emídio Rafael,Académica,26,1,5,6,16,16.0
+117,0910,Óscar Cardozo,SL Benfica,29,26,5,31,40,16.0
+118,0910,Neca,V. Setúbal,11,2,4,6,21,16.0
+119,0910,Luis Aguiar,SC Braga,14,3,4,7,15,16.0
+120,1011,Hulk,FC Porto,26,23,13,36,49,17.0
+121,1011,James Rodríguez,FC Porto,15,2,10,12,16,17.0
+122,1011,Artur,Beira-Mar,26,4,8,12,38,17.0
+123,1011,Saviola,SL Benfica,24,9,7,16,26,17.0
+124,1011,Bruno Gama,Rio Ave,29,2,7,9,26,17.0
+125,1011,Pablo Aimar,SL Benfica,23,5,6,11,18,17.0
+126,1011,Fernando Belluschi,FC Porto,26,2,6,8,11,17.0
+127,1011,Paulo Sérgio,Olhanense,24,2,6,8,33,17.0
+128,1011,João Moutinho,FC Porto,27,0,6,6,8,17.0
+129,1011,Daniel Candeias,Portimonense,28,1,6,7,24,17.0
+130,1011,Rúben Micael,FC Porto,19,0,5,5,7,17.0
+131,1011,Mateus,Nacional,23,2,5,7,25,17.0
+132,1011,Álvaro Pereira,FC Porto,21,0,5,5,7,17.0
+133,1011,Nico Gaitán,SL Benfica,26,7,5,12,20,17.0
+134,1011,Diogo Valente,Académica,29,2,5,7,22,17.0
+135,1011,Alan,SC Braga,27,5,5,10,22,17.0
+136,1011,Modou Sougou,Académica,28,6,5,11,34,17.0
+137,1011,Selim Benachour,Marítimo,11,2,4,6,18,17.0
+138,1011,Márcio Mossoró,SC Braga,21,3,4,7,16,17.0
+139,1011,Jaime Valdés,Sporting CP,23,5,4,9,22,17.0
+140,1112,Hulk,FC Porto,26,16,10,26,38,18.0
+141,1112,Pablo Aimar,SL Benfica,24,2,9,11,17,18.0
+142,1112,James Rodríguez,FC Porto,26,13,9,22,32,18.0
+143,1112,Nolito,SL Benfica,29,11,8,19,29,18.0
+144,1112,Danilo Dias,Marítimo,30,8,8,16,39,18.0
+145,1112,Nico Gaitán,SL Benfica,25,3,7,10,15,18.0
+146,1112,Alan,SC Braga,23,3,7,10,17,18.0
+147,1112,Wilson Eduardo,Olhanense,27,7,7,14,39,18.0
+148,1112,Christian Atsu,Rio Ave,27,6,6,12,36,18.0
+149,1112,Salvador Agra,Olhanense,27,4,6,10,28,18.0
+150,1112,Hugo Viana,SC Braga,27,2,6,8,14,18.0
+151,1112,Lima,SC Braga,30,20,6,26,44,18.0
+152,1112,Javier Saviola,SL Benfica,18,4,5,9,14,18.0
+153,1112,Richard Almeida,Gil Vicente,29,0,5,5,16,18.0
+154,1112,Silvestre Varela,FC Porto,21,3,4,7,10,18.0
+155,1112,Leandro Salino,SC Braga,20,0,4,4,7,18.0
+156,1112,Javier Balboa,Beira-Mar,25,3,4,7,27,18.0
+157,1112,Manuel José,Paços Ferreira,20,5,4,9,26,18.0
+158,1112,Márcio Mossoró,SC Braga,28,3,4,7,12,18.0
+159,1112,Vítor Silva,Paços Ferreira,28,2,4,6,17,18.0
+160,1213,João Moutinho,FC Porto,27,1,10,11,16,19.0
+161,1213,Nico Gaitán,SL Benfica,23,3,9,12,16,19.0
+162,1213,Josué,Paços Ferreira,23,0,9,9,21,19.0
+163,1213,Ukra,Rio Ave,26,1,9,10,29,19.0
+164,1213,James Rodríguez,FC Porto,24,10,8,18,26,19.0
+165,1213,Márcio Mossoró,SC Braga,28,5,8,13,22,19.0
+166,1213,Lucho González,FC Porto,29,6,7,13,19,19.0
+167,1213,Mario Rondón,Nacional,28,4,7,11,24,19.0
+168,1213,Eduardo Salvio,SL Benfica,29,10,7,17,22,19.0
+169,1213,Claudemir,Nacional,30,5,7,12,27,19.0
+170,1213,Rúben Micael,SC Braga,18,4,6,10,17,19.0
+171,1213,Tiago Rodrigues,V. Guimarães,20,4,6,10,28,19.0
+172,1213,Vítor Silva,Paços Ferreira,29,5,6,11,26,19.0
+173,1213,Ola John,SL Benfica,22,0,5,5,6,19.0
+174,1213,David Addy,V. Guimarães,22,1,5,6,17,19.0
+175,1213,Alan,SC Braga,26,5,5,10,17,19.0
+176,1213,Jefferson,Estoril,28,4,5,9,19,19.0
+177,1213,Danilo,FC Porto,28,2,5,7,10,19.0
+178,1213,João Pedro,SC Braga,14,2,4,6,10,19.0
+179,1213,Paulinho,Moreirense,9,0,4,4,13,19.0
+180,1314,Alan,SC Braga,24,6,8,14,36,20.0
+181,1314,Daniel Candeias,Nacional,29,4,8,12,28,20.0
+182,1314,Evandro,Estoril,28,11,8,19,45,20.0
+183,1314,André Carrillo,Sporting CP,27,2,6,8,15,20.0
+184,1314,Lazar Markovic,SL Benfica,26,5,6,11,19,20.0
+185,1314,Rodrigo Moreno,SL Benfica,26,11,6,17,29,20.0
+186,1314,Pedro Tiba,V. Setúbal,24,1,6,7,17,20.0
+187,1314,Nico Gaitán,SL Benfica,26,4,5,9,16,20.0
+188,1314,Jefferson,Sporting CP,26,2,5,7,13,20.0
+189,1314,João Mário,V. Setúbal,15,0,4,4,10,20.0
+190,1314,Josué,FC Porto,20,4,4,8,14,20.0
+191,1314,Artur,Marítimo,26,1,4,5,13,20.0
+192,1314,Silvestre Varela,FC Porto,25,5,4,9,16,20.0
+193,1314,André Martins,Sporting CP,27,3,4,7,13,20.0
+194,1314,Felipe Pardo,SC Braga,30,7,4,11,28,20.0
+195,1314,Luís Tinoco,Arouca,25,0,4,4,14,20.0
+196,1314,Lima,SL Benfica,28,14,4,18,31,20.0
+197,1314,Enzo Pérez,SL Benfica,28,4,4,8,14,20.0
+198,1314,Danilo,FC Porto,28,3,4,7,12,20.0
+199,1314,Adrien Silva,Sporting CP,28,8,4,12,22,20.0
+200,1415,Nico Gaitán,SL Benfica,27,4,16,20,23,21.0
+201,1415,André Carrillo,Sporting CP,32,5,9,14,21,21.0
+202,1415,Ukra,Rio Ave,33,4,9,13,34,21.0
+203,1415,Tiago Rodrigues,Nacional,18,4,8,12,27,21.0
+204,1415,Tozé,Estoril,28,5,8,13,34,21.0
+205,1415,Eduardo Salvio,SL Benfica,29,9,8,17,20,21.0
+206,1415,Rúben Ferreira,Marítimo,28,0,8,8,17,21.0
+207,1415,Maxi Pereira,SL Benfica,32,5,8,13,15,21.0
+208,1415,Pizzi,SL Benfica,23,2,7,9,10,21.0
+209,1415,Cristian Tello,FC Porto,25,7,7,14,19,21.0
+210,1415,Ricardo Quaresma,FC Porto,30,6,6,12,16,21.0
+211,1415,Jefferson,Sporting CP,23,1,6,7,10,21.0
+212,1415,Nani,Sporting CP,27,7,6,13,19,21.0
+213,1415,Héctor Herrera,FC Porto,33,3,6,9,12,21.0
+214,1415,Tomané,V. Guimarães,32,4,6,10,20,21.0
+215,1415,Lima,SL Benfica,34,19,6,25,29,21.0
+216,1415,Vincent Aboubakar,FC Porto,14,4,5,9,12,21.0
+217,1415,Ola John,SL Benfica,26,3,5,8,9,21.0
+218,1415,Jonathan Urreta,Paços Ferreira,14,5,5,10,25,21.0
+219,1415,Luís Aurélio,"Nacional, Moreirense",19,2,5,7,16,21.0
+220,1516,Nico Gaitán,SL Benfica,25,4,15,19,22,22.0
+221,1516,Miguel Layún,FC Porto,27,5,15,20,30,22.0
+222,1516,Jonas,SL Benfica,34,32,12,44,50,22.0
+223,1516,Bryan Ruiz,Sporting CP,34,8,11,19,24,22.0
+224,1516,Carlos Martins,Belenenses,24,2,10,12,27,22.0
+225,1516,Otávio,V. Guimarães,25,6,10,16,36,22.0
+226,1516,Iuri Medeiros,Moreirense,29,8,10,18,47,22.0
+227,1516,João Mário,Sporting CP,33,6,10,16,20,22.0
+228,1516,Salvador Agra,Nacional,34,9,9,18,45,22.0
+229,1516,Maxi Pereira,FC Porto,32,1,9,10,15,22.0
+230,1516,Nuno Sequeira,Nacional,31,1,7,8,20,22.0
+231,1516,Renato Santos,Boavista,25,2,6,8,33,22.0
+232,1516,Suk Hyun-jun,"FC Porto, V. Setúbal",25,10,6,16,35,22.0
+233,1516,Pizzi,SL Benfica,31,8,6,14,16,22.0
+234,1516,Adrien Silva,Sporting CP,29,8,6,14,18,22.0
+235,1516,Amilton Silva,U. Madeira,31,5,6,11,41,22.0
+236,1516,Anderson Luís,Estoril,33,2,6,8,20,22.0
+237,1516,Mehdi Carcela,SL Benfica,20,2,5,7,8,22.0
+238,1516,Gonçalo Guedes,SL Benfica,18,3,5,8,9,22.0
+239,1516,Moussa Marega,"FC Porto, Marítimo",24,5,5,10,22,22.0
+240,1617,Gelson Martins,Sporting CP,32,6,10,16,24,23.0
+241,1617,Iuri Medeiros,Boavista,27,7,8,15,45,23.0
+242,1617,Pizzi,SL Benfica,33,10,8,18,25,23.0
+243,1617,Alex Telles,FC Porto,32,1,8,9,13,23.0
+244,1617,Wilson Eduardo,SC Braga,18,6,7,13,25,23.0
+245,1617,Pedro Santos,SC Braga,27,6,7,13,25,23.0
+246,1617,Raphinha,V. Guimarães,32,4,6,10,20,23.0
+247,1617,Toto Salvio,SL Benfica,29,4,6,10,14,23.0
+248,1617,Moussa Marega,V. Guimarães,25,13,6,19,38,23.0
+249,1617,Mateus,Arouca,32,3,6,9,27,23.0
+250,1617,Patrick Vieira,Marítimo,30,1,6,7,21,23.0
+251,1617,Nélson Semedo,SL Benfica,31,1,6,7,10,23.0
+252,1617,Otávio,FC Porto,23,1,5,6,8,23.0
+253,1617,João Aurélio,V. Guimarães,25,0,5,5,10,23.0
+254,1617,Jesús Corona,FC Porto,29,3,5,8,11,23.0
+255,1617,Nildo Petrolina,Moreirense,30,2,5,7,21,23.0
+256,1617,Ezequiel Schelotto,Sporting CP,23,0,5,5,7,23.0
+257,1617,Edgar Costa,Marítimo,27,1,5,6,18,23.0
+258,1617,Bryan Ruiz,Sporting CP,32,2,5,7,10,23.0
+259,1617,André Silva,FC Porto,32,16,5,21,30,23.0
+260,1718,Alex Telles,FC Porto,30,3,13,16,20,24.0
+261,1718,Shoya Nakajima,Portimonense,29,10,10,20,38,24.0
+262,1718,Ricardo Esgaio,SC Braga,30,4,10,14,19,24.0
+263,1718,Jefferson,SC Braga,26,0,9,9,12,24.0
+264,1718,Ricardo Horta,SC Braga,30,11,8,19,26,24.0
+265,1718,Franco Cervi,SL Benfica,31,3,8,11,14,24.0
+266,1718,Xavier,Paços Ferreira,33,0,8,8,24,24.0
+267,1718,Gelson Martins,Sporting CP,31,8,8,16,25,24.0
+268,1718,Yacine Brahimi,FC Porto,33,9,8,17,21,24.0
+269,1718,Bruno Fernandes,Sporting CP,33,11,8,19,30,24.0
+270,1718,Tiago Silva,Feirense,29,3,7,10,31,24.0
+271,1718,André Almeida,SL Benfica,31,2,7,9,11,24.0
+272,1718,André Horta,SC Braga,22,1,6,7,9,24.0
+273,1718,Raul Silva,SC Braga,25,6,6,12,16,24.0
+274,1718,Davidson,Desp. Chaves,33,5,6,11,23,24.0
+275,1718,Jean Cléber,Marítimo,30,1,6,7,19,24.0
+276,1718,Nuno Pinto,V. Setúbal,27,1,6,7,18,24.0
+277,1718,Fabrício Messias,Portimonense,29,15,6,21,40,24.0
+278,1718,Jonas,SL Benfica,30,34,6,40,50,24.0
+279,1718,Miguel Cardoso,Tondela,32,8,6,14,34,24.0
+280,1819,Pizzi,SL Benfica,34,13,19,32,31,25.0
+281,1819,Bruno Fernandes,Sporting CP,33,20,13,33,46,25.0
+282,1819,André Almeida,SL Benfica,33,2,12,14,14,25.0
+283,1819,Álex Grimaldo,SL Benfica,34,4,12,16,16,25.0
+284,1819,Jesús Corona,FC Porto,34,3,9,12,16,25.0
+285,1819,Marcos Acuña,Sporting CP,30,1,9,10,14,25.0
+286,1819,Alex Telles,FC Porto,33,4,8,12,16,25.0
+287,1819,Otávio,FC Porto,28,3,7,10,14,25.0
+288,1819,João Félix,SL Benfica,26,15,7,22,21,25.0
+289,1819,Xavier,Tondela,32,3,7,10,25,25.0
+290,1819,Sequeira,SC Braga,29,0,7,7,13,25.0
+291,1819,Chiquinho,Moreirense,34,8,7,15,38,25.0
+292,1819,Diogo Viana,Belenenses,30,1,6,7,17,25.0
+293,1819,Éber Bessa,V. Setúbal,31,2,6,8,29,25.0
+294,1819,Dyego Sousa,SC Braga,33,15,6,21,38,25.0
+295,1819,Moussa Marega,FC Porto,29,11,6,17,23,25.0
+296,1819,Davidson,V. Guimarães,34,8,6,14,30,25.0
+297,1819,Tomané,Tondela,31,12,6,18,45,25.0
+298,1819,Gelson Dala,Rio Ave,19,5,5,10,20,25.0
+299,1819,Shoya Nakajima,Portimonense,13,5,5,10,23,25.0
+300,1920,Pizzi,SL Benfica,34,18,14,32,45,26.0
+301,1920,Jesús Corona,FC Porto,33,4,11,15,20,26.0
+302,1920,Otávio,FC Porto,31,2,9,11,15,26.0
+303,1920,Bruno Tabata,Portimonense,26,1,8,9,30,26.0
+304,1920,Alex Telles,FC Porto,31,11,8,19,26,26.0
+305,1920,Bruno Fernandes,Sporting CP,17,8,7,15,31,26.0
+306,1920,Paulinho,SC Braga,29,17,7,24,39,26.0
+307,1920,Carlos Mané,Rio Ave,32,1,6,7,15,26.0
+308,1920,Francisco Trincão,SC Braga,27,8,6,14,23,26.0
+309,1920,Carlos Vinícius,SL Benfica,32,18,6,24,34,26.0
+310,1920,Lincoln,Santa Clara,30,1,6,7,19,26.0
+311,1920,Álex Grimaldo,SL Benfica,26,0,6,6,8,26.0
+312,1920,Fábio Martins,Famalicão,29,12,6,18,34,26.0
+313,1920,Ricardo Esgaio,SC Braga,30,1,6,7,11,26.0
+314,1920,Pedro Nuno,Moreirense,28,2,5,7,17,26.0
+315,1920,Rúben Lameiras,Famalicão,22,2,5,7,13,26.0
+316,1920,Rafa Silva,SL Benfica,25,7,5,12,17,26.0
+317,1920,Falaye Sacko,V. Guimarães,23,0,5,5,9,26.0
+318,1920,Marcus Edwards,V. Guimarães,26,7,5,12,23,26.0
+319,1920,Éber Bessa,V. Setúbal,31,2,5,7,26,26.0
+320,2021,Everton,SL Benfica,28,5,8,13,22,27.0
+321,2021,Álex Grimaldo,SL Benfica,27,2,8,10,17,27.0
+322,2021,Darwin Núñez,SL Benfica,25,6,7,13,22,27.0
+323,2021,Mehdi Taremi,FC Porto,30,13,7,20,33,27.0
+324,2021,Jesús Corona,FC Porto,30,2,7,9,15,27.0
+325,2021,Rochinha,V. Guimarães,29,5,6,11,33,27.0
+326,2021,Otávio,FC Porto,22,3,6,9,15,27.0
+327,2021,Haris Seferovic,SL Benfica,27,18,6,24,41,27.0
+328,2021,Alberth Elis,Boavista,27,7,6,13,37,27.0
+329,2021,Ryan Gauld,Farense,29,8,6,14,52,27.0
+330,2021,Diogo Gonçalves,SL Benfica,19,1,5,6,10,27.0
+331,2021,Ricardo Quaresma,V. Guimarães,25,3,5,8,24,27.0
+332,2021,Nuno Santos,Sporting CP,28,6,5,11,20,27.0
+333,2021,Paulinho,"Sporting, SC Braga",22,4,5,9,14,27.0
+334,2021,Luther Singh,Paços Ferreira,27,5,5,10,29,27.0
+335,2021,Gelson Dala,Rio Ave,27,3,5,8,35,27.0
+336,2021,Sérgio Oliveira,FC Porto,29,12,5,17,28,27.0
+337,2021,Angel Gomes,Boavista,26,6,5,11,31,27.0
+338,2021,Yanis Hamache,Boavista,23,2,4,6,17,27.0
+339,2021,Cryzan,Santa Clara,20,3,4,7,19,27.0

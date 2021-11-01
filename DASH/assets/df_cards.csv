@@ -1,0 +1,471 @@
+,Season,Team,A,2A,VE
+0,9495,U. Madeira,108,6,5
+1,9495,U. Leiria,100,4,5
+2,9495,SL Benfica,96,5,4
+3,9495,Beira-Mar,95,7,3
+4,9495,Boavista,93,6,3
+5,9495,Farense,92,6,0
+6,9495,Belenenses,92,6,1
+7,9495,Desp. Chaves,91,5,2
+8,9495,Salgueiros,90,11,1
+9,9495,Tirsense,87,6,3
+10,9495,V. Guimarães,85,8,3
+11,9495,E. Amadora,84,4,1
+12,9495,Gil Vicente,80,2,3
+13,9495,FC Porto,77,3,4
+14,9495,V. Setúbal,77,4,3
+15,9495,Sporting CP,74,1,2
+16,9495,SC Braga,67,1,4
+17,9495,Marítimo,63,4,1
+18,9596,Leça,116,12,8
+19,9596,Campomaiorense,104,11,2
+20,9596,Gil Vicente,101,6,1
+21,9596,SC Braga,100,4,4
+22,9596,Tirsense,100,2,2
+23,9596,E. Amadora,99,5,0
+24,9596,SL Benfica,97,5,1
+25,9596,U. Leiria,96,6,3
+26,9596,Desp. Chaves,90,3,2
+27,9596,Felgueiras,87,4,2
+28,9596,Farense,86,6,3
+29,9596,Boavista,86,5,0
+30,9596,Salgueiros,80,5,1
+31,9596,Sporting CP,78,3,6
+32,9596,Belenenses,78,8,0
+33,9596,V. Guimarães,74,4,1
+34,9596,FC Porto,72,1,3
+35,9596,Marítimo,69,3,2
+36,9697,SC Braga,123,8,5
+37,9697,U. Leiria,121,11,6
+38,9697,Farense,118,6,3
+39,9697,Sp. Espinho,117,6,3
+40,9697,Rio Ave,105,8,1
+41,9697,V. Guimarães,104,7,3
+42,9697,E. Amadora,103,6,0
+43,9697,Marítimo,103,4,5
+44,9697,Belenenses,102,5,1
+45,9697,Salgueiros,101,5,2
+46,9697,Boavista,100,6,6
+47,9697,V. Setúbal,100,3,2
+48,9697,Gil Vicente,98,8,4
+49,9697,Desp. Chaves,96,8,0
+50,9697,Sporting CP,94,3,1
+51,9697,SL Benfica,91,9,1
+52,9697,FC Porto,91,5,2
+53,9697,Leça,78,0,4
+54,9798,Belenenses,120,8,4
+55,9798,SC Braga,119,10,2
+56,9798,Farense,107,6,4
+57,9798,Académica,106,7,2
+58,9798,Desp. Chaves,105,7,2
+59,9798,Boavista,101,2,2
+60,9798,Varzim,99,4,3
+61,9798,FC Porto,99,2,4
+62,9798,V. Setúbal,98,7,5
+63,9798,Campomaiorense,96,7,2
+64,9798,Sporting CP,93,6,3
+65,9798,E. Amadora,91,3,2
+66,9798,V. Guimarães,87,6,4
+67,9798,Rio Ave,87,5,4
+68,9798,Leça,82,5,4
+69,9798,SL Benfica,81,3,2
+70,9798,Salgueiros,80,6,2
+71,9798,Marítimo,72,8,1
+72,9899,Campomaiorense,128,8,1
+73,9899,Marítimo,121,5,0
+74,9899,Beira-Mar,117,4,3
+75,9899,Boavista,115,9,0
+76,9899,Alverca,112,13,4
+77,9899,SC Braga,107,8,6
+78,9899,Farense,107,5,7
+79,9899,V. Guimarães,105,6,1
+80,9899,V. Setúbal,105,5,3
+81,9899,U. Leiria,103,6,2
+82,9899,Desp. Chaves,100,9,6
+83,9899,SL Benfica,98,7,2
+84,9899,Académica,95,2,2
+85,9899,Salgueiros,95,3,3
+86,9899,FC Porto,89,2,2
+87,9899,E. Amadora,83,4,1
+88,9899,Rio Ave,83,3,4
+89,9899,Sporting CP,82,4,1
+90,9900,Campomaiorense,119,13,3
+91,9900,Alverca,116,10,3
+92,9900,Boavista,111,10,2
+93,9900,V. Setúbal,107,8,1
+94,9900,E. Amadora,104,6,5
+95,9900,SC Braga,103,2,1
+96,9900,Salgueiros,101,4,3
+97,9900,Marítimo,99,2,2
+98,9900,U. Leiria,98,7,5
+99,9900,SL Benfica,96,3,2
+100,9900,Gil Vicente,89,3,2
+101,9900,Santa Clara,88,1,3
+102,9900,Belenenses,82,2,2
+103,9900,Farense,80,7,1
+104,9900,FC Porto,77,2,3
+105,9900,Rio Ave,74,3,1
+106,9900,Sporting CP,69,2,1
+107,9900,V. Guimarães,52,1,0
+108,0001,Campomaiorense,128,8,1
+109,0001,Belenenses,119,8,2
+110,0001,Paços Ferreira,109,5,1
+111,0001,Gil Vicente,106,8,2
+112,0001,SC Braga,105,2,1
+113,0001,E. Amadora,104,5,1
+114,0001,U. Leiria,101,2,5
+115,0001,Alverca,101,3,1
+116,0001,Beira-Mar,98,6,2
+117,0001,Desp. Aves,98,2,3
+118,0001,SL Benfica,97,5,6
+119,0001,Boavista,88,1,3
+120,0001,Marítimo,86,3,2
+121,0001,V. Guimarães,84,7,4
+122,0001,Salgueiros,84,3,3
+123,0001,FC Porto,79,1,0
+124,0001,Sporting CP,73,1,1
+125,0001,Farense,67,3,0
+126,0102,Alverca,111,4,2
+127,0102,Paços Ferreira,106,7,5
+128,0102,SC Braga,105,4,5
+129,0102,Beira-Mar,104,3,4
+130,0102,U. Leiria,101,2,4
+131,0102,Farense,100,5,5
+132,0102,V. Setúbal,99,5,4
+133,0102,FC Porto,96,5,2
+134,0102,Boavista,96,6,3
+135,0102,Gil Vicente,95,7,2
+136,0102,Sporting CP,95,6,4
+137,0102,Belenenses,93,2,2
+138,0102,Marítimo,90,6,5
+139,0102,Salgueiros,89,1,3
+140,0102,SL Benfica,79,4,6
+141,0102,V. Guimarães,79,2,2
+142,0102,Santa Clara,68,2,3
+143,0102,Varzim,66,5,1
+144,0203,SC Braga,104,1,2
+145,0203,Moreirense,101,6,1
+146,0203,Boavista,99,6,2
+147,0203,V. Guimarães,99,2,5
+148,0203,V. Setúbal,96,2,1
+149,0203,Paços Ferreira,96,2,4
+150,0203,Belenenses,96,4,3
+151,0203,Gil Vicente,93,4,3
+152,0203,FC Porto,90,1,5
+153,0203,U. Leiria,90,5,1
+154,0203,Beira-Mar,90,3,3
+155,0203,SL Benfica,89,6,4
+156,0203,Marítimo,87,5,3
+157,0203,Santa Clara,85,2,3
+158,0203,Académica,84,3,3
+159,0203,Varzim,78,4,3
+160,0203,Sporting CP,78,3,4
+161,0203,Nacional,73,2,6
+162,0304,Boavista,107,1,5
+163,0304,Rio Ave,105,3,4
+164,0304,Gil Vicente,103,6,2
+165,0304,FC Porto,100,1,2
+166,0304,Sporting CP,99,5,0
+167,0304,Alverca,97,3,5
+168,0304,Nacional,95,2,4
+169,0304,V. Guimarães,89,5,3
+170,0304,Paços Ferreira,87,3,5
+171,0304,U. Leiria,85,6,2
+172,0304,Belenenses,83,6,2
+173,0304,SC Braga,83,2,7
+174,0304,Moreirense,82,4,0
+175,0304,E. Amadora,80,3,4
+176,0304,SL Benfica,79,3,2
+177,0304,Beira-Mar,76,3,2
+178,0304,Marítimo,73,2,6
+179,0304,Académica,66,1,2
+180,0405,V. Guimarães,118,5,2
+181,0405,Estoril,114,5,4
+182,0405,Gil Vicente,114,3,1
+183,0405,FC Porto,111,2,7
+184,0405,Boavista,103,3,6
+185,0405,Nacional,102,4,4
+186,0405,Beira-Mar,100,4,2
+187,0405,Académica,99,6,1
+188,0405,U. Leiria,97,4,4
+189,0405,Penafiel,96,4,5
+190,0405,Rio Ave,93,2,1
+191,0405,Belenenses,88,5,1
+192,0405,Moreirense,86,3,1
+193,0405,Sporting CP,86,5,5
+194,0405,SC Braga,84,4,2
+195,0405,Marítimo,81,6,3
+196,0405,SL Benfica,77,1,3
+197,0405,V. Setúbal,69,2,1
+198,0506,Naval,123,7,3
+199,0506,E. Amadora,118,3,5
+200,0506,Gil Vicente,117,4,6
+201,0506,V. Guimarães,115,3,6
+202,0506,Paços Ferreira,101,0,0
+203,0506,Marítimo,100,5,3
+204,0506,Penafiel,99,5,3
+205,0506,Académica,99,6,5
+206,0506,Boavista,99,6,5
+207,0506,Rio Ave,89,4,4
+208,0506,U. Leiria,89,3,1
+209,0506,Nacional,87,1,2
+210,0506,Belenenses,83,3,1
+211,0506,SL Benfica,82,3,1
+212,0506,SC Braga,80,3,1
+213,0506,FC Porto,72,3,1
+214,0506,Sporting CP,71,1,2
+215,0506,V. Setúbal,64,0,1
+216,0607,E. Amadora,94,5,3
+217,0607,Desp. Aves,91,2,1
+218,0607,Paços Ferreira,87,6,3
+219,0607,Marítimo,84,0,4
+220,0607,Boavista,79,6,2
+221,0607,SC Braga,79,4,5
+222,0607,Académica,79,6,2
+223,0607,U. Leiria,78,4,1
+224,0607,Belenenses,76,2,2
+225,0607,V. Setúbal,76,3,1
+226,0607,Nacional,74,3,0
+227,0607,Beira-Mar,65,4,5
+228,0607,FC Porto,65,0,1
+229,0607,Naval,64,3,3
+230,0607,SL Benfica,62,4,2
+231,0607,Sporting CP,60,3,1
+232,0708,SC Braga,95,5,2
+233,0708,U. Leiria,86,4,5
+234,0708,Boavista,84,7,2
+235,0708,Paços Ferreira,80,1,2
+236,0708,E. Amadora,77,1,2
+237,0708,Belenenses,72,2,4
+238,0708,Marítimo,69,3,3
+239,0708,Naval,69,5,4
+240,0708,V. Setúbal,67,0,1
+241,0708,Nacional,66,3,5
+242,0708,Leixões,66,2,4
+243,0708,SL Benfica,65,1,2
+244,0708,Sporting CP,64,3,1
+245,0708,Académica,52,1,2
+246,0708,FC Porto,48,0,1
+247,0708,V. Guimarães,46,1,2
+248,0809,Belenenses,101,3,1
+249,0809,Paços Ferreira,89,0,1
+250,0809,Nacional,84,4,1
+251,0809,Trofense,83,2,2
+252,0809,Rio Ave,82,4,1
+253,0809,SL Benfica,81,5,0
+254,0809,V. Setúbal,78,3,2
+255,0809,Sporting CP,77,5,2
+256,0809,SC Braga,77,0,2
+257,0809,Leixões,76,1,0
+258,0809,Académica,64,3,5
+259,0809,V. Guimarães,64,1,3
+260,0809,FC Porto,62,1,0
+261,0809,E. Amadora,60,3,2
+262,0809,Marítimo,58,4,2
+263,0809,Naval,57,0,1
+264,0910,Olhanense,99,4,6
+265,0910,Leixões,92,7,5
+266,0910,V. Setúbal,88,6,1
+267,0910,V. Guimarães,87,3,6
+268,0910,Nacional,76,4,4
+269,0910,Sporting CP,75,3,1
+270,0910,Paços Ferreira,75,4,0
+271,0910,SL Benfica,74,1,2
+272,0910,Belenenses,73,1,3
+273,0910,Rio Ave,72,1,4
+274,0910,Marítimo,71,2,4
+275,0910,SC Braga,68,1,1
+276,0910,U. Leiria,68,1,3
+277,0910,Académica,67,3,2
+278,0910,FC Porto,64,3,0
+279,0910,Naval,62,2,0
+280,1011,Portimonense,96,5,3
+281,1011,V. Setúbal,95,4,2
+282,1011,V. Guimarães,94,4,1
+283,1011,Rio Ave,93,4,2
+284,1011,Marítimo,93,5,5
+285,1011,U. Leiria,92,6,0
+286,1011,Académica,90,4,5
+287,1011,SL Benfica,87,5,4
+288,1011,SC Braga,86,3,5
+289,1011,Sporting CP,85,1,2
+290,1011,Olhanense,85,1,3
+291,1011,FC Porto,81,2,1
+292,1011,Paços Ferreira,80,4,3
+293,1011,Nacional,75,6,1
+294,1011,Naval,73,1,7
+295,1011,Beira-Mar,63,3,3
+296,1112,V. Setúbal,107,7,2
+297,1112,Olhanense,101,5,3
+298,1112,Académica,101,2,7
+299,1112,Feirense,97,4,6
+300,1112,Nacional,95,6,2
+301,1112,Beira-Mar,95,6,3
+302,1112,Marítimo,93,4,2
+303,1112,V. Guimarães,90,2,1
+304,1112,Sporting CP,89,4,2
+305,1112,Paços Ferreira,88,5,8
+306,1112,SL Benfica,88,4,1
+307,1112,FC Porto,84,1,2
+308,1112,Rio Ave,84,4,1
+309,1112,U. Leiria,70,3,5
+310,1112,SC Braga,67,1,1
+311,1112,Gil Vicente,61,2,2
+312,1213,Marítimo,97,5,1
+313,1213,Gil Vicente,93,4,1
+314,1213,Rio Ave,91,3,4
+315,1213,Nacional,87,7,5
+316,1213,Beira-Mar,85,4,3
+317,1213,V. Guimarães,83,1,3
+318,1213,Sporting CP,82,4,1
+319,1213,V. Setúbal,81,6,4
+320,1213,Académica,78,2,6
+321,1213,Olhanense,78,2,3
+322,1213,Paços Ferreira,76,5,1
+323,1213,Moreirense,75,2,3
+324,1213,SC Braga,75,4,3
+325,1213,Estoril,73,6,3
+326,1213,SL Benfica,57,3,3
+327,1213,FC Porto,52,2,0
+328,1314,Rio Ave,109,6,0
+329,1314,Arouca,105,7,0
+330,1314,Gil Vicente,97,3,6
+331,1314,V. Guimarães,96,3,0
+332,1314,Olhanense,94,7,4
+333,1314,Paços Ferreira,89,5,1
+334,1314,V. Setúbal,86,3,5
+335,1314,Belenenses,85,5,6
+336,1314,Académica,85,2,2
+337,1314,Nacional,82,2,2
+338,1314,Marítimo,82,3,7
+339,1314,Sporting CP,82,1,1
+340,1314,FC Porto,77,1,2
+341,1314,SC Braga,72,1,3
+342,1314,SL Benfica,66,2,0
+343,1314,Estoril,64,1,7
+344,1415,Gil Vicente,119,9,1
+345,1415,Penafiel,110,5,5
+346,1415,Boavista,107,9,3
+347,1415,V. Setúbal,105,7,5
+348,1415,Estoril,105,2,4
+349,1415,Belenenses,102,1,0
+350,1415,Marítimo,100,7,0
+351,1415,Nacional,99,6,2
+352,1415,V. Guimarães,99,6,3
+353,1415,Sporting CP,99,8,2
+354,1415,Arouca,96,4,1
+355,1415,Rio Ave,95,3,4
+356,1415,SC Braga,91,5,1
+357,1415,Paços Ferreira,90,4,0
+358,1415,Moreirense,88,3,2
+359,1415,SL Benfica,81,1,1
+360,1415,Académica,79,1,3
+361,1415,FC Porto,64,1,2
+362,1516,Marítimo,113,11,8
+363,1516,Paços Ferreira,112,2,2
+364,1516,Arouca,110,3,1
+365,1516,Boavista,103,7,0
+366,1516,V. Setúbal,100,8,4
+367,1516,V. Guimarães,99,4,5
+368,1516,Moreirense,98,3,0
+369,1516,Rio Ave,97,6,1
+370,1516,Académica,94,3,2
+371,1516,SC Braga,86,5,5
+372,1516,Tondela,85,3,3
+373,1516,Belenenses,83,2,5
+374,1516,FC Porto,82,2,1
+375,1516,U. Madeira,82,2,0
+376,1516,Estoril,77,4,1
+377,1516,SL Benfica,75,2,0
+378,1516,Nacional,74,5,1
+379,1516,Sporting CP,73,0,4
+380,1617,Feirense,100,4,2
+381,1617,Tondela,94,6,3
+382,1617,SC Braga,93,2,2
+383,1617,Boavista,88,4,1
+384,1617,Nacional,88,5,2
+385,1617,Sporting CP,87,3,0
+386,1617,Arouca,86,2,2
+387,1617,Estoril,83,3,0
+388,1617,Moreirense,83,4,2
+389,1617,Marítimo,82,1,0
+390,1617,Belenenses,82,2,2
+391,1617,Desp. Chaves,81,2,2
+392,1617,V. Guimarães,76,2,2
+393,1617,Rio Ave,74,4,3
+394,1617,Paços Ferreira,74,2,2
+395,1617,V. Setúbal,73,0,0
+396,1617,FC Porto,69,2,2
+397,1617,SL Benfica,58,1,1
+398,1718,Feirense,104,2,3
+399,1718,Paços Ferreira,97,3,5
+400,1718,Moreirense,93,5,2
+401,1718,Boavista,93,1,1
+402,1718,Rio Ave,84,2,5
+403,1718,Belenenses,81,6,3
+404,1718,Marítimo,79,3,4
+405,1718,SC Braga,78,1,0
+406,1718,V. Guimarães,77,2,4
+407,1718,Estoril,74,2,5
+408,1718,V. Setúbal,73,2,3
+409,1718,Tondela,72,0,5
+410,1718,Desp. Aves,72,0,3
+411,1718,Portimonense,71,3,2
+412,1718,Sporting CP,70,3,0
+413,1718,FC Porto,67,2,1
+414,1718,SL Benfica,60,1,0
+415,1718,Desp. Chaves,59,1,2
+416,1819,Boavista,104,4,2
+417,1819,Tondela,101,6,7
+418,1819,Sporting CP,100,2,5
+419,1819,V. Setúbal,99,4,3
+420,1819,Feirense,95,2,2
+421,1819,Rio Ave,92,8,3
+422,1819,Marítimo,86,0,4
+423,1819,Nacional,84,4,0
+424,1819,Desp. Chaves,84,1,4
+425,1819,Santa Clara,78,2,4
+426,1819,Portimonense,78,2,4
+427,1819,Desp. Aves,76,2,1
+428,1819,Moreirense,74,2,3
+429,1819,Belenenses,73,3,3
+430,1819,SL Benfica,70,2,5
+431,1819,V. Guimarães,68,2,1
+432,1819,SC Braga,65,1,1
+433,1819,FC Porto,61,0,1
+434,1920,Paços Ferreira,112,4,2
+435,1920,Boavista,111,3,4
+436,1920,Famalicão,99,3,8
+437,1920,V. Setúbal,99,3,4
+438,1920,Marítimo,98,1,5
+439,1920,Belenenses,96,3,1
+440,1920,Desp. Aves,94,4,3
+441,1920,Sporting CP,91,3,0
+442,1920,SC Braga,91,2,4
+443,1920,FC Porto,87,2,1
+444,1920,Portimonense,83,2,0
+445,1920,Moreirense,82,2,2
+446,1920,Tondela,82,3,1
+447,1920,Gil Vicente,76,3,1
+448,1920,Santa Clara,75,1,2
+449,1920,SL Benfica,71,1,1
+450,1920,Rio Ave,71,2,5
+451,1920,V. Guimarães,69,3,2
+452,2021,Nacional,84,1,3
+453,2021,Marítimo,83,2,1
+454,2021,Famalicão,81,2,2
+455,2021,Santa Clara,81,1,1
+456,2021,Belenenses,79,3,2
+457,2021,Sporting CP,74,2,1
+458,2021,Boavista,73,5,3
+459,2021,Portimonense,72,0,1
+460,2021,Tondela,70,2,3
+461,2021,Moreirense,70,1,0
+462,2021,Farense,67,3,3
+463,2021,SL Benfica,64,0,0
+464,2021,V. Guimarães,64,0,2
+465,2021,Rio Ave,61,2,3
+466,2021,Gil Vicente,60,2,2
+467,2021,Paços Ferreira,58,0,2
+468,2021,SC Braga,55,1,4
+469,2021,FC Porto,51,3,1
